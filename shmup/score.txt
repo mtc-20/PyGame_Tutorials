@@ -1,0 +1,4 @@
+ <built-in method capitalize of str object at 0x7fc2563ffa78> : 100wolf : 100<class 'datetime.date'> : Wolf : 100
+<class 'datetime.date'> : Wolf : 100
+12/02/2019, 10:56:13 : Wolf : 100
+ <built-in method capitalize of str object at 0x7fc2563d3ca8> : 100
